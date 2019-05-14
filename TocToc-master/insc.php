@@ -91,7 +91,7 @@
 				<table>
 					<tr>
 						<td>
-							<label for="pseudo">Pseudo :</label>
+							<label for="pseudo" style="color: green";>Pseudo :</label>
 						</td>
 						<td>
 							<input type="text" placeholder="Votre pseudo" id="pseudo" name="pseudo"
