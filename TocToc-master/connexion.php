@@ -1,7 +1,7 @@
 <?php
 	session_start();
 
-	$bdd = new PDO('mysql:host=localhost;dbname=espace_membre', 'root', '');
+	$bdd = new PDO('mysql:host=localhost;dbname=espace_membres', 'root', '');
 	
 	$erreur = array();
 	
