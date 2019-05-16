@@ -77,7 +77,7 @@
 
 <html>
 	<head>
-		<title>TUTO PHP 2</title>
+		<title>TUTO PHP</title>
 		<meta charset="utf-8">
 	</head>
 	
@@ -142,8 +142,9 @@
 					<tr>
 						<td></td>
 						<td align="center">
-							<br/>
-							<input type="submit" value="Je m'inscris" name="forminscription"/>
+							<button type="button" class="btn btn-primary">Primary</button>
+							<!-- <br/>
+							<input type="submit" value="Je m'inscris" name="forminscription"/> -->
 						</td>
 					</tr>
 				</table>
