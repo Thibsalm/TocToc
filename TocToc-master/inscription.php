@@ -142,7 +142,7 @@
 					<tr>
 						<td></td>
 						<td align="center">
-							<button type="button" class="btn btn-primary">Primary</button>
+							<button type="button" class="btn btn-primary"> Je m'inscris</button>
 							<!-- <br/>
 							<input type="submit" value="Je m'inscris" name="forminscription"/> -->
 						</td>
