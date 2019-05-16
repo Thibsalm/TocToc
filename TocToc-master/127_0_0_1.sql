@@ -19,10 +19,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de données :  `espace_membres`
+-- Base de données :  `membre_space`
 --
-CREATE DATABASE IF NOT EXISTS `espace_membre` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `espace_membre`;
+CREATE DATABASE IF NOT EXISTS `membre_space` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `membre_space`;
 
 -- --------------------------------------------------------
 
